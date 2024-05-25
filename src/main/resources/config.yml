@@ -1,0 +1,14 @@
+items:
+  sword_one:
+    material: DIAMOND_SWORD
+    name: "Мечь в жопе"
+    lore:
+      - "Да ваще!"
+      - "Пиздеуц"
+    enchants:
+      - KNOCKBACK:2
+      - SHARPNESS:3
+    attribute:
+      - GENERIC_MOVEMENT_SPEED:3
+    hide_enchants: false
+    hide_attribute: false

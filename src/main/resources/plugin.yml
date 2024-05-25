@@ -2,3 +2,7 @@ name: AItemss
 version: '${project.version}'
 main: ru.ender.aitemss.Main
 api-version: '1.19'
+
+commands:
+  itemgive:
+    description: sddsd
