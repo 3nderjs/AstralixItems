@@ -14,6 +14,7 @@ public final class Main extends JavaPlugin {
     @Override
     public void onEnable() {
         getCommand("itemgive").setExecutor(new ItemsGive());
+        getCommand("itemgive").setTabCompleter(new ItemsGive());
         saveDefaultConfig();
     }
 
